@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdonnect",
+        "uuid": 2155923,
+        "checksum": "p34zn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
